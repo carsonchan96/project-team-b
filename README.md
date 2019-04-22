@@ -8,7 +8,7 @@
 
 * Task4: This repo uses Github to host a mini-website and includes a code snippet written in **C**.
 
-* Task5: Promote our work to everyone!
+* Task5: Promote our work in CSCI3250 organization!
 
 ## Code
 ```c
